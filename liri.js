@@ -5,12 +5,12 @@ var spotify = new Spotify(keys.spotify);
 
 // command liri should be running
 
-* `concert-this`
+// * `concert-this`
 
-* `spotify-this-song`
+// * `spotify-this-song`
 
-* `movie-this`
+// * `movie-this`
 
-* `do-what-it-says`
+// * `do-what-it-says`
 
 // 
