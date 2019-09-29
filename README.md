@@ -1,4 +1,4 @@
-# LIRI-SVBOT
+# LIRIBOT
 Fork this and run commands straight from Terminal to look up Songs, Concerts and Movies!
 
 
