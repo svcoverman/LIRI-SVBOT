@@ -1,5 +1,5 @@
 {
-  "name": "LIRI-SVBOT",
+  "name": "LIRIBOT",
   "version": "1.0.0",
   "description": "Fork this and run commands straight from Terminal to look up Songs, Concerts and Movies!",
   "main": "keys.js",
