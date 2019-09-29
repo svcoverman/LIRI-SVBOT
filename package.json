@@ -1,0 +1,20 @@
+{
+  "name": "LIRI-SVBOT",
+  "version": "1.0.0",
+  "description": "Fork this and run commands straight from Terminal to look up Songs, Concerts and Movies!",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svcoverman/LIRI-SVBOT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/svcoverman/LIRI-SVBOT/issues"
+  },
+  "homepage": "https://github.com/svcoverman/LIRI-SVBOT#readme"
+}
